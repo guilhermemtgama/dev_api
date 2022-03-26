@@ -6,11 +6,11 @@ app = Flask(__name__)
 desenvolverdores = [
 
     {'ID': '0',
-     'nome': 'Guilherme Gama',
+     'nome': 'Guilherme',
      'habilidades': ['Python, Flask']
      },
     {'ID': '1',
-     'nome': 'Leticia Gama',
+     'nome': 'Leticia',
      'habilidades': ["Python", 'Django']}
 ]
 # devolve um desenvolvedor pelo ID,também altera e deleta um desenvolvedor.
